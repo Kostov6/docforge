@@ -1,5 +1,7 @@
 # docforge
 
+![test embedded](https://github.com/Kostov6/docforge/raw/master/docs/images/docforge-step.svg)
+
 ![Docforge Logo](docs/images/gardener-docforge-logo.svg)
 
 [![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
