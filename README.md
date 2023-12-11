@@ -39,7 +39,7 @@ At a glance:
 
 ### Users
 
-Go to project [releases](https://github.com/gardener/docforge/releases), select the [latest release](https://github.com/gardener/docforge/releases/latest) and pickup a download for your OS:
+Go to project [releases](github.com/gardener/docforge/releases), select the [latest release](https://github.com/gardener/docforge/releases/latest) and pickup a download for your OS:
 
 - **Mac**: docforge-darwin-amd64
 - **Linux**: docforge-linux-amd64
